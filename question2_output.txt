@@ -1,0 +1,149 @@
+Parsed output- 
+Periodic tasks:
+1 20 50 40 
+2 2 12 12 
+3 5 20 15 
+4 1 25 25 
+5 3 80 80 
+Aperiodic tasks:
+1 2 3
+2 5 4
+3 7 2
+4 9 5
+5 13 1
+Output sorted according to priorities- 
+Periodic tasks:
+2 2 12 12 
+3 5 20 15 
+4 1 25 25 
+1 20 50 40 
+5 3 80 80 
+Output sorted according to arrival times- 
+Aperiodic tasks:
+1 2 3
+2 5 4
+3 7 2
+4 9 5
+5 13 1
+Time = 0 Task = 3
+Time = 1 Task = 3
+Time = 2 Task = 2
+Task 3 preempted at time 2
+Time = 3 Task = 2
+Time = 4 Task = 3
+Time = 5 Task = 3
+Time = 6 Task = 3
+Time = 7 Task = 4
+Time = 8 Task = 1
+Time = 9 Task = 1
+Time = 10 Task = 1
+Time = 11 Task = 1
+Time = 12 Task = 2
+Aperiodic task 1 completed at time 12 with response time 11
+Task 1 preempted at time 12
+Time = 13 Task = 2
+Time = 14 Task = 1
+Time = 15 Task = 1
+Time = 16 Task = 1
+Time = 17 Task = 1
+Time = 18 Task = 1
+Time = 19 Task = 1
+Time = 20 Task = 3
+Task 1 preempted at time 20
+Time = 21 Task = 3
+Time = 22 Task = 3
+Time = 23 Task = 3
+Time = 24 Task = 2
+Task 3 preempted at time 24
+Time = 25 Task = 2
+Time = 26 Task = 3
+Time = 27 Task = 4
+Time = 28 Task = 1
+Time = 29 Task = 1
+Time = 30 Task = 1
+Time = 31 Task = 1
+Time = 32 Task = 1
+Time = 33 Task = 1
+Time = 34 Task = 1
+Time = 35 Task = 1
+Time = 36 Task = 2
+Aperiodic task 2 completed at time 36 with response time 32
+Task 1 preempted at time 36
+Time = 37 Task = 2
+Time = 38 Task = 1
+Time = 39 Task = 1
+Time = 40 Task = 3
+Time = 41 Task = 3
+Time = 42 Task = 3
+Time = 43 Task = 3
+Time = 44 Task = 3
+Time = 45 Task = 5
+Time = 46 Task = 5
+Time = 47 Task = 5
+Time = 48 Task = 2
+Aperiodic task 3 completed at time 48 with response time 42
+Time = 49 Task = 2
+Time = 50 Task = 4
+Time = 51 Task = 1
+Time = 52 Task = 1
+Time = 53 Task = 1
+Time = 54 Task = 1
+Time = 55 Task = 1
+Time = 56 Task = 1
+Time = 57 Task = 1
+Time = 58 Task = 1
+Time = 59 Task = 1
+Time = 60 Task = 2
+Task 1 preempted at time 60
+Time = 61 Task = 2
+Time = 62 Task = 3
+Time = 63 Task = 3
+Time = 64 Task = 3
+Time = 65 Task = 3
+Time = 66 Task = 3
+Time = 67 Task = 1
+Time = 68 Task = 1
+Time = 69 Task = 1
+Time = 70 Task = 1
+Time = 71 Task = 1
+Time = 72 Task = 2
+Task 1 preempted at time 72
+Time = 73 Task = 2
+Aperiodic task 4 completed at time 73 with response time 65
+Time = 74 Task = 1
+Time = 75 Task = 4
+Task 1 preempted at time 75
+Time = 76 Task = 1
+Time = 77 Task = 1
+Time = 78 Task = 1
+Time = 79 Task = 1
+Time = 80 Task = 3
+Task 1 preempted at time 80
+Time = 81 Task = 3
+Time = 82 Task = 3
+Time = 83 Task = 3
+Time = 84 Task = 2
+Aperiodic task 5 completed at time 84 with response time 72
+Task 3 preempted at time 84
+Time = 85 Task = 3
+Time = 86 Task = 1
+Time = 87 Task = 5
+Time = 88 Task = 5
+Time = 89 Task = 5
+Average response time for aperiodic tasks is 44.4
+Task Summary according to priority:
+----Task 2----
+Preempt count for task 2 is 0
+Deadline miss count for task 2 is 0
+----Task 3----
+Preempt count for task 3 is 3
+Deadline miss count for task 3 is 0
+----Task 4----
+Preempt count for task 4 is 0
+Deadline miss count for task 4 is 0
+----Task 1----
+Preempt count for task 1 is 7
+Deadline miss count for task 1 is 0
+----Task 5----
+Preempt count for task 5 is 0
+Deadline miss count for task 5 is 0

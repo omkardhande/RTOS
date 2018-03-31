@@ -1,0 +1,166 @@
+Parsed output- 
+Periodic tasks:
+1 1 4 4 
+2 2 8 8 
+3 2 20 20 
+4 4 40 30 
+5 10 60 60 
+Aperiodic tasks:
+1 1 1
+2 5 2
+3 10 7
+Output sorted according to priorities- 
+Periodic tasks:
+1 1 4 4 
+2 2 8 8 
+3 2 20 20 
+4 4 40 30 
+5 10 60 60 
+Output sorted according to arrival times- 
+Aperiodic tasks:
+1 1 1
+2 5 2
+3 10 7
+Aperiodic task 1 completed at time 4 with response time 3
+Task 4 preempted at time 8
+Task 4 preempted at time 12
+Task 5 preempted at time 16
+Task 5 preempted at time 20
+Aperiodic task 2 completed at time 22 with response time 17
+Task 5 preempted at time 24
+Task 5 preempted at time 28
+Task 5 preempted at time 32
+Task 5 preempted at time 36
+Task 4 preempted at time 48
+Task 4 preempted at time 52
+Task 5 preempted at time 64
+Task 5 preempted at time 68
+Task 5 preempted at time 72
+Task 5 preempted at time 76
+Task 5 preempted at time 80
+Aperiodic task 3 completed at time 86 with response time 76
+Task 4 preempted at time 88
+Task 4 missed deadline at time 90
+Average response time for aperiodic tasks is 32.0
+According to RM
+Time	Task
+0	1
+1	2
+2	2
+3	3
+4	1
+5	3
+6	4
+7	4
+8	1
+9	2
+10	2
+11	4
+12	1
+13	4
+14	5
+15	5
+16	1
+17	2
+18	2
+19	5
+20	1
+21	3
+22	3
+23	5
+24	1
+25	2
+26	2
+27	5
+28	1
+29	5
+30	5
+31	5
+32	1
+33	2
+34	2
+35	5
+36	1
+37	5
+38	0
+39	0
+40	1
+41	2
+42	2
+43	3
+44	1
+45	3
+46	4
+47	4
+48	1
+49	2
+50	2
+51	4
+52	1
+53	4
+54	0
+55	0
+56	1
+57	2
+58	2
+59	0
+60	1
+61	3
+62	3
+63	5
+64	1
+65	2
+66	2
+67	5
+68	1
+69	5
+70	5
+71	5
+72	1
+73	2
+74	2
+75	5
+76	1
+77	5
+78	5
+79	5
+80	1
+81	2
+82	2
+83	3
+84	1
+85	3
+86	4
+87	4
+88	1
+89	2
+90	2
+91	5
+92	1
+93	0
+94	0
+95	0
+96	1
+97	2
+98	2
+99	0
+100	1
+101	0
+102	0
+103	0
+104	1
+105	2
+106	2
+107	0
+108	1
+109	0
+110	0
+111	0
+112	1
+113	2
+114	2
+115	0
+116	1
+117	0
+118	0
+119	0

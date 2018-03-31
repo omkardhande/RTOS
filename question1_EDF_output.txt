@@ -1,0 +1,105 @@
+Parsed output: 
+1 20 50 40 
+2 10 40 30 
+3 5 20 15 
+4 1 25 25 
+5 3 80 80 
+Time = 0 Task = 3
+Time = 1 Task = 3
+Time = 2 Task = 3
+Time = 3 Task = 3
+Time = 4 Task = 3
+Time = 5 Task = 4
+Time = 6 Task = 2
+Time = 7 Task = 2
+Time = 8 Task = 2
+Time = 9 Task = 2
+Time = 10 Task = 2
+Time = 11 Task = 2
+Time = 12 Task = 2
+Time = 13 Task = 2
+Time = 14 Task = 2
+Time = 15 Task = 2
+Time = 16 Task = 1
+Time = 17 Task = 1
+Time = 18 Task = 1
+Time = 19 Task = 1
+Time = 20 Task = 3
+Task 1 preempted at time 20
+Time = 21 Task = 3
+Time = 22 Task = 3
+Time = 23 Task = 3
+Time = 24 Task = 3
+Time = 25 Task = 1
+Time = 26 Task = 1
+Time = 27 Task = 1
+Time = 28 Task = 1
+Time = 29 Task = 1
+Time = 30 Task = 1
+Time = 31 Task = 1
+Time = 32 Task = 1
+Time = 33 Task = 1
+Time = 34 Task = 1
+Time = 35 Task = 1
+Time = 36 Task = 1
+Time = 37 Task = 1
+Time = 38 Task = 1
+Time = 39 Task = 1
+Task 1 missed deadline at time 40
+Time = 40 Task = 4
+Time = 41 Task = 3
+Time = 42 Task = 3
+Time = 43 Task = 3
+Time = 44 Task = 3
+Time = 45 Task = 3
+Time = 46 Task = 2
+Time = 47 Task = 2
+Time = 48 Task = 2
+Time = 49 Task = 2
+Time = 50 Task = 2
+Time = 51 Task = 2
+Time = 52 Task = 2
+Time = 53 Task = 2
+Time = 54 Task = 2
+Time = 55 Task = 2
+Time = 56 Task = 4
+Time = 57 Task = 5
+Time = 58 Task = 5
+Time = 59 Task = 5
+Time = 60 Task = 3
+Time = 61 Task = 3
+Time = 62 Task = 3
+Time = 63 Task = 3
+Time = 64 Task = 3
+Time = 65 Task = 1
+Time = 66 Task = 1
+Time = 67 Task = 1
+Time = 68 Task = 1
+Time = 69 Task = 1
+Time = 70 Task = 1
+Time = 71 Task = 1
+Time = 72 Task = 1
+Time = 73 Task = 1
+Time = 74 Task = 1
+Time = 75 Task = 1
+Time = 76 Task = 1
+Time = 77 Task = 1
+Time = 78 Task = 1
+Time = 79 Task = 1
+Time = 80 Task = 1
+Task Summary according to priority:
+----Task 1----
+Preempt count for task 1 is 1
+Deadline miss count for task 1 is 1
+----Task 2----
+Preempt count for task 2 is 0
+Deadline miss count for task 2 is 0
+----Task 3----
+Preempt count for task 3 is 0
+Deadline miss count for task 3 is 0
+----Task 4----
+Preempt count for task 4 is 0
+Deadline miss count for task 4 is 0
+----Task 5----
+Preempt count for task 5 is 0
+Deadline miss count for task 5 is 0

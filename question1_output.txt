@@ -1,0 +1,154 @@
+Parsed output: 
+1 1 4 4 
+2 2 8 8 
+3 3 20 10 
+4 4 30 30 
+5 10 60 40 
+Task 3 preempted at time 4
+Task 4 preempted at time 8
+Task 4 preempted at time 12
+Task 5 preempted at time 16
+Task 5 preempted at time 20
+Task 5 preempted at time 24
+Task 5 preempted at time 28
+Task 5 preempted at time 32
+Task 4 preempted at time 40
+Task 5 preempted at time 64
+Task 5 preempted at time 68
+Task 5 preempted at time 72
+Task 5 preempted at time 76
+Task 4 preempted at time 80
+Task 4 preempted at time 84
+Task 4 preempted at time 92
+According to EDF
+Time	Task
+0	1
+1	2
+2	2
+3	3
+4	1
+5	3
+6	3
+7	4
+8	1
+9	2
+10	2
+11	4
+12	1
+13	4
+14	4
+15	5
+16	1
+17	2
+18	2
+19	5
+20	1
+21	5
+22	5
+23	5
+24	1
+25	2
+26	2
+27	5
+28	1
+29	5
+30	5
+31	5
+32	1
+33	2
+34	2
+35	5
+36	1
+37	4
+38	4
+39	4
+40	1
+41	2
+42	2
+43	4
+44	1
+45	0
+46	0
+47	0
+48	1
+49	2
+50	2
+51	0
+52	1
+53	0
+54	0
+55	0
+56	1
+57	2
+58	2
+59	0
+60	1
+61	5
+62	5
+63	5
+64	1
+65	2
+66	2
+67	5
+68	1
+69	5
+70	5
+71	5
+72	1
+73	2
+74	2
+75	5
+76	1
+77	5
+78	5
+79	4
+80	1
+81	2
+82	2
+83	4
+84	1
+85	4
+86	4
+87	0
+88	1
+89	2
+90	2
+91	4
+92	1
+93	4
+94	4
+95	4
+96	1
+97	2
+98	2
+99	0
+100	1
+101	0
+102	0
+103	0
+104	1
+105	2
+106	2
+107	0
+108	1
+109	0
+110	0
+111	0
+112	1
+113	2
+114	2
+115	0
+116	1
+117	0
+118	0
+119	0
+Preempt count for task 1 is 0
+Deadline miss count for task 1 is 0
+Preempt count for task 2 is 0
+Deadline miss count for task 2 is 0
+Preempt count for task 3 is 1
+Deadline miss count for task 3 is 0
+Preempt count for task 4 is 6
+Deadline miss count for task 4 is 0
+Preempt count for task 5 is 9
+Deadline miss count for task 5 is 0
